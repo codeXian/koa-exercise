@@ -1,0 +1,23 @@
+{
+  "name": "koa-exercise",
+  "version": "1.0.0",
+  "description": "✍️ koa-exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeXian/koa-exercise.git"
+  },
+  "keywords": ["koa"],
+  "author": "codexian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeXian/koa-exercise/issues"
+  },
+  "homepage": "https://github.com/codeXian/koa-exercise#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
